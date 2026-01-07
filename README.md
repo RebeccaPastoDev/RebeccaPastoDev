@@ -36,9 +36,6 @@ I have experience working with **Java, Python, SQL, AWS, Databricks**, and the *
 ## Featured Projects 💻
 
 ### 📱 Mobile App Project (Expo + React Native)
-![React Native Project](https://user-images.githubusercontent.com/placeholder/mobile-app.png)
-
-A mobile application built using **React Native and Expo**, focusing on clean UI components and collaborative development. This project demonstrates my ability to learn new frameworks quickly and contribute effectively in a team environment.
 
 🔗 Repository: *Coming soon*
 
