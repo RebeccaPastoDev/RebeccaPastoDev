@@ -11,7 +11,7 @@ I have experience working with **Java, Python, SQL, AWS, Databricks**, and the *
 - 🌱 Currently learning: **JavaScript & React Native**
 - 🔭 Working on: **Mobile app development and academic projects**
 - 🌍 Languages: **Java, Python, SQL, English, Portuguese**
-- 📫 How to reach me: **rebecca.pasto@email.com**  
+- 📫 How to reach me: **rebecca.spasto@email.com**  
 - ⚡ Fun fact: I’m an **amateur digital photographer** 📸
 
 ---
