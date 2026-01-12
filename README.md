@@ -60,4 +60,4 @@ TextStudio 1.0 is a modular, Java-based desktop text editor developed using the 
 ## Get in Touch 
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/rebecca-pasto)
-- 📧 Email: rebecca.pasto@email.com
+- 📧 Email: rebecca.spasto@email.com
