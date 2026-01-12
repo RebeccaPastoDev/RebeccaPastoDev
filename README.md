@@ -2,7 +2,7 @@
 
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Rebecca%20Pasto&fontSize=38&fontColor=ffffff)
 
-## About Me 🚀
+## About Me 
 
 I'm an undergraduate student at **Rutgers University–Newark** majoring in **Computer Science** with a minor in **Social Justice**. I’m passionate about finding technical solutions to both big and small problems, and I enjoy building software that is thoughtful, scalable, and impactful.
 
@@ -16,7 +16,7 @@ I have experience working with **Java, Python, SQL, AWS, Databricks**, and the *
 
 ---
 
-## My Skills 🧠
+## My Skills 
 
 ### Programming & Tools
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
@@ -33,24 +33,31 @@ I have experience working with **Java, Python, SQL, AWS, Databricks**, and the *
 
 ---
 
-## Featured Projects 💻
+## Featured Projects 
 
-### 📱 Mobile App Project (Expo + React Native)
+### Data & Algorithms Project
+
+A Java project that processes chess player data using data structures and algorithms to analyze and manage player information from an input file.
+
+🔗 Repository: [ChessPlayerProject](https://github.com/RebeccaPastoDev/ChessPlayerProject.git)
+
+---
+
+### Java Application Project
+
+TextStudio 1.0 is a modular, Java-based desktop text editor developed using the Swing framework. It features a multi-tabbed interface, a dynamic theming engine, and specialized tools for technical writing.
+
+🔗 Repository: [TextStudio](https://github.com/RebeccaPastoDev/TextStudio)
+
+---
+
+### Mobile App Project (Expo + React Native)
 
 🔗 Repository: *Coming soon*
 
 ---
 
-### 💡 Data & Algorithms Project
-<!--![Backend Project](https://user-images.githubusercontent.com/placeholder/backend-project.png)-->
-
-<!--A backend-focused project using **Python and SQL**, showcasing data handling, problem-solving, and structured application design.-->
-
-🔗 Repository: *Coming soon*
-
----
-
-## Get in Touch 📬
+## Get in Touch 
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/rebecca-pasto)
 - 📧 Email: rebecca.pasto@email.com
